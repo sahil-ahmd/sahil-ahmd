@@ -21,10 +21,10 @@ I love creating clean, scalable code and turning ideas into real-world products.
 ### Where to find me
 
 <div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/sahil-ahmed-86222718a)">
+  <a href="https://www.linkedin.com/in/sahil-ahmed-86222718a">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="[your-github-URL](https://github.com/sahil-ahmd)">
+  <a href="https://github.com/sahil-ahmd">
     <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
   <a href="mailto:sahilahmed466@gmail.com">
