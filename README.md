@@ -13,9 +13,9 @@ I love creating clean, scalable code and turning ideas into real-world products.
 
 ### Currently Learning
 - Advanced **React.js** patterns and hooks
-- **TypeScript** for safer, scalable code
 - Mobile development with **React Native** and **Expo**
-- **System Design** for scalability
+- **System Design** for scalability and architecture
+- **AI** integration and it's effects
 
 
 ### Where to find me
