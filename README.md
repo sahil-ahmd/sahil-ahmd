@@ -12,10 +12,10 @@ I love creating clean, scalable code and turning ideas into real-world products.
 
 
 ### Currently Learning
-- Advanced **React.js** patterns and hooks
-- Mobile development with **React Native** and **Expo**
-- **System Design** for scalability and architecture
-- **AI** integration and it's effects
+- Advanced patterns and performance optimization techniques in React.js, including custom hooks and scalable component architecture
+- Mobile application development using React Native and Expo
+- System Design fundamentals focused on scalability, distributed architecture, and high-performance applications
+- AI integration in modern applications and its impact on software development and user experience
 
 
 ### Where to find me
